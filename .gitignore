@@ -1,3 +1,10 @@
+# Audio recordings - keep directory structure but ignore actual audio files
+audio/recordings/*.flac
+audio/recordings/*.wav
+audio/recordings/*.mp3
+audio/recordings/*.m4a
+audio/recordings/*.aac
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
